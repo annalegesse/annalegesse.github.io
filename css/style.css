@@ -1,0 +1,66 @@
+.index-body {
+	background-image: url(../img/universe.jpg);
+	background-size: 100%;
+	font-family: 'Supermercado One', cursive;
+}
+
+.img-circle{
+	width: 100%;
+}
+.foo{
+	text-align: center;
+	font-size: 21px;
+}
+.card-title{
+	font-family: 'Supermercado One', cursive;
+	color: #2a0d45;
+	font-weight: 300;
+
+	}
+.navbar-brand {
+	font-family: 'Supermercado One', cursive;
+	font-size: 40px;
+	top:10%;
+    color: white;
+
+}
+.navbar {
+	background-color: #2a0d45;
+	margin-bottom: 0px;
+
+}
+.navbar a{ 
+	color: white !important;
+
+}
+.jumbo{
+	background-image: url(../img/cover.jpg);
+	background-size: cover;
+  	color: white;
+  	height: 100%;
+  	vertical-align: middle;
+}
+.strong {
+  color: #2a0d45;
+}
+.display-1{font-size: 10rem;
+    font-weight: 300;
+    font-family: 'Supermercado One', cursive;
+    line-height: 1.1;}
+
+.display-3{font-size: 5rem;
+    font-weight: 200;
+    font-family: 'Supermercado One', cursive;
+    line-height: 1.05;}
+
+.holder {
+	position: relative;
+}
+
+.center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+}  
